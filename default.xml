@@ -529,7 +529,7 @@
   <!-- MoKee Hardware End -->
 
   <!-- MoKee System Start -->
-  <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
+  <project path="system/core" name="TeamVee/android_system_core" groups="pdk" />
   <!-- MoKee System End -->
 
   <!-- Other Start -->
